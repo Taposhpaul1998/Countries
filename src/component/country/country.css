@@ -1,0 +1,26 @@
+.country{
+    background-color: #dbb32326;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 7px 20px 17px #0000004d;
+}
+.country img{
+    width: 290px;
+}
+.country h2 {
+    line-height: 4px;
+    font-size: 28px;
+    font-family: monospace;
+    font-weight: 300;
+}
+.country h3,h4{
+    line-height: 12px;
+    font-size: 16px;
+    font-family: monospace;
+    font-weight: 600;
+}
+.country p {
+    font-weight: 500;
+    line-height: 3px;
+}
